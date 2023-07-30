@@ -18,8 +18,17 @@ header{
 }
 
 header img{
-  width: 95px;
-  height: 95px;
+  width: 55px;
+  height: 55px;
+}
+
+header .logo{
+  align-items: center;
+}
+
+header .logo p{
+  font-size: 24px;
+  color: #fff;
 }
 
 .search{
